@@ -792,7 +792,27 @@ ol {
 }
 .blog__item.latest__item:hover {
   border: 1px solid #222222 !important;
-  background: url(../img/blog/blog-1.jpg);
+  background: url(../img/blog/1505990_711586682289935_2729006813609138215_n.jpg);
+  background-size: cover;
+}
+.blog__item.latest__item.contract:hover {
+  border: 1px solid #222222 !important;
+  background: url(../img/blog/contact.jpg);
+  background-size: cover;
+}
+.blog__item.latest__item.camera:hover {
+  border: 1px solid #222222 !important;
+  background: url(../img/blog/camera.jpg);
+  background-size: cover;
+}
+.blog__item.latest__item.phonglab:hover {
+  border: 1px solid #222222 !important;
+  background: url(../img/blog/phonglab.jpg);
+  background-size: cover;
+}
+.blog__item.latest__item.aluoi:hover {
+  border: 1px solid #222222 !important;
+  background: url(../img/blog/aluoi.jpg);
   background-size: cover;
 }
 
